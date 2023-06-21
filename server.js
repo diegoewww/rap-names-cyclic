@@ -41,6 +41,18 @@ let rappers = {
         'yearsActive': 'unknown',
         'labels': 'unknown',
         'children': 'unknown'
+    },
+    'Diego': {
+        'age': 21,
+        'birthName': 'Diego',
+        'birthdate': '16 October 1992', 
+        'birthLocation': 'London, England',
+        'origin': 'Atlanta, Georgia',
+        'genre': 'hip hop, trap, rap, horrorcore',
+        'occupation': 'rapper, songwriter, record producer',
+        'yearsActive': '2013-present',
+        'labels': 'Epic, Slaughter Gang',
+        'children': 3
     }
 }
 
