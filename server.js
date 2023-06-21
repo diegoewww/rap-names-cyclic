@@ -42,7 +42,7 @@ let rappers = {
         'labels': 'unknown',
         'children': 'unknown'
     },
-    'Diego': {
+    'diego': {
         'age': 21,
         'birthName': 'Diego',
         'birthdate': '16 October 1992', 
